@@ -14,6 +14,8 @@
 		004FB9312C4C00F80070D4F5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 004FB9302C4C00F80070D4F5 /* Preview Assets.xcassets */; };
 		004FB9382C4C023A0070D4F5 /* CreateUserInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004FB9372C4C023A0070D4F5 /* CreateUserInfoView.swift */; };
 		004FB93A2C4CB1C70070D4F5 /* Predict.swift in Sources */ = {isa = PBXBuildFile; fileRef = 004FB9392C4CB1C70070D4F5 /* Predict.swift */; };
+		00D496AF2C51010D005C9067 /* BaziView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D496AE2C51010D005C9067 /* BaziView.swift */; };
+		00D496B12C5102C4005C9067 /* DynamicCompassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00D496B02C5102C4005C9067 /* DynamicCompassView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		004FB9302C4C00F80070D4F5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		004FB9372C4C023A0070D4F5 /* CreateUserInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateUserInfoView.swift; sourceTree = "<group>"; };
 		004FB9392C4CB1C70070D4F5 /* Predict.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predict.swift; sourceTree = "<group>"; };
+		00D496AE2C51010D005C9067 /* BaziView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaziView.swift; sourceTree = "<group>"; };
+		00D496B02C5102C4005C9067 /* DynamicCompassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicCompassView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				004FB9292C4C00F70070D4F5 /* ContentView.swift */,
 				004FB9392C4CB1C70070D4F5 /* Predict.swift */,
 				004FB9372C4C023A0070D4F5 /* CreateUserInfoView.swift */,
+				00D496AE2C51010D005C9067 /* BaziView.swift */,
+				00D496B02C5102C4005C9067 /* DynamicCompassView.swift */,
 				004FB92B2C4C00F70070D4F5 /* Item.swift */,
 				004FB92D2C4C00F80070D4F5 /* Assets.xcassets */,
 				004FB92F2C4C00F80070D4F5 /* Preview Content */,
@@ -150,7 +156,9 @@
 				004FB92A2C4C00F70070D4F5 /* ContentView.swift in Sources */,
 				004FB9382C4C023A0070D4F5 /* CreateUserInfoView.swift in Sources */,
 				004FB92C2C4C00F70070D4F5 /* Item.swift in Sources */,
+				00D496AF2C51010D005C9067 /* BaziView.swift in Sources */,
 				004FB9282C4C00F70070D4F5 /* DivinationApp.swift in Sources */,
+				00D496B12C5102C4005C9067 /* DynamicCompassView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
